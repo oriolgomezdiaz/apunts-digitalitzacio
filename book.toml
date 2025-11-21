@@ -1,0 +1,9 @@
+[book]
+authors = ["Oriol Gómez Díaz"]
+language = "ca"
+multilingual = false
+src = "src"
+title = "Digitalització Aplicada als Sectors Productius"
+
+[output.html]
+git-repository-url = "https://github.com/oriolgomezdiaz/oriolgomezdiaz.github.io"
