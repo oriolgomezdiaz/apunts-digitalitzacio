@@ -1,7 +1,6 @@
 [book]
 authors = ["Oriol Gómez Díaz"]
 language = "ca"
-multilingual = false
 src = "src"
 title = "Digitalització Aplicada als Sectors Productius"
 
