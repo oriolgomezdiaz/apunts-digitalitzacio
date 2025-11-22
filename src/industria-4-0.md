@@ -1,12 +1,12 @@
 # Indústria 4.0 i IoT
 
-[cite_start]La Indústria 4.0 introdueix xarxes intel·ligents a tota la cadena de subministrament, combinant automatització, IoT i anàlisi de dades[cite: 212, 213].
+La Indústria 4.0 introdueix xarxes intel·ligents a tota la cadena de subministrament, combinant automatització, IoT i anàlisi de dades.
 
 ## Internet de les Coses (IoT)
 
-[cite_start]L'IoT descriu la xarxa d'objectes físics que porten sensors i programari per connectar-se i intercanviar dades a través d'Internet[cite: 125].
+L'IoT descriu la xarxa d'objectes físics que porten sensors i programari per connectar-se i intercanviar dades a través d'Internet.
 
-[cite_start]**Tecnologies clau que fan possible l'IoT:** [cite: 134-142]
+**Tecnologies clau que fan possible l'IoT:**
 
 - **Sensors de baix cost:** Fan la tecnologia assequible.
 - **Connectivitat:** Nous protocols de xarxa per connectar al núvol.
@@ -16,7 +16,7 @@
 
 ## AIoT: Intel·ligència Artificial de les Coses
 
-L'AIoT és la combinació de la Intel·ligència Artificial (AI) amb l'Internet de les Coses (IoT). [cite_start]Aquesta fusió impulsa la productivitat, la innovació en fabricació i la seguretat[cite: 245, 249].
+L'AIoT és la combinació de la Intel·ligència Artificial (AI) amb l'Internet de les Coses (IoT). Aquesta fusió impulsa la productivitat, la innovació en fabricació i la seguretat.
 
 ![Esquema IoT](https://example.com/imatge-iot-placeholder.png)
-[cite_start]_La màquina registra informació -> S'emmagatzema al núvol -> Actualització en temps real a la base de dades [cite: 234-237]._
+La màquina registra informació -> S'emmagatzema al núvol -> Actualització en temps real a la base de dades.\_

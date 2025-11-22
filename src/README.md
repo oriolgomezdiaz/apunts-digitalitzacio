@@ -9,5 +9,4 @@ Benvinguts a la documentació sobre la digitalització en el context empresarial
 - Estudiar casos d'èxit reals.
 - Entendre la convergència tecnològica en els sectors productius.
 
-[cite_start]**Autor:** Oriol Gómez Díaz [cite: 8]
-[cite_start]**Departament:** Informàtica i Comunicació - CIFP Pere de Son Gall [cite: 2, 3]
+**Autor:** Oriol Gómez Díaz
